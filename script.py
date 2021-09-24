@@ -31,9 +31,9 @@ Bot will automatically search for your file and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @HyetelegramBots
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Official Channel :</b> @Allinonestorems
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
