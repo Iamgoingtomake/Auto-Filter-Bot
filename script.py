@@ -35,8 +35,8 @@ Bot will automatically search for your file and give links to that!
 
 ⭕️<b>Official Channel :</b> @Allinonestorems
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Library :</b> <a href='@ChikkanBiriyani_Hehe'> Library </a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Source Code :</b> <a href='@ChikkanBiriyani_Hehe'>Source Code</a> 
 
 """
